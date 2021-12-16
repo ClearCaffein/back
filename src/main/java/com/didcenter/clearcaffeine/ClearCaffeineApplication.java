@@ -1,13 +1,13 @@
-package com.didcenter.clearcaffein;
+package com.didcenter.clearcaffeine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClearcaffeinApplication {
+public class ClearCaffeineApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClearcaffeinApplication.class, args);
+		SpringApplication.run(ClearCaffeineApplication.class, args);
 	}
 
 }

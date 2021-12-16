@@ -1,10 +1,10 @@
-package com.didcenter.clearcaffein;
+package com.didcenter.clearcaffeine;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ClearcaffeinApplicationTests {
+class ClearCaffeineApplicationTests {
 
 	@Test
 	void contextLoads() {
