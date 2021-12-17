@@ -1,6 +1,4 @@
-package com.didcenter.clearcaffeine.search.service;
-
-import static org.junit.Assert.*;
+package com.didcenter.clearcaffeine.food.service;
 
 public class CaffeineFoodInMemoryServiceTest {
 
